@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">Eu me chamo Cleber Oliveira<br><br>- 📚 Estudando JavaScript<br>- ⚡ No meu tempo livre gosto de aprender mais sobre a tecnologia</p>
+<p align="left">Eu me chamo Cleber Oliveira<br><br>- 📚 Estudando Programação<br>- ⚡ No meu tempo livre gosto de aprender mais sobre a tecnologia</p>
 
 ###
 
@@ -40,6 +40,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
 ###
